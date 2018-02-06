@@ -1,2 +1,3 @@
 # git-first
-First Git Repository
+First Git Repository.
+Doing some sample changes in README.md file.
